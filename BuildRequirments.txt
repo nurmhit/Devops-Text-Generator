@@ -1,0 +1,8 @@
+Ubuntu, bionic64,Ubuntu install
+python, 3.8,https://www.python.org/downloads/
+numpy, 1.18.4,pip3 install numpy
+pandas, 1.0.3,pip3 install pandas
+python-dateutil, 2.8.1,pip3 install python-dateutil
+pytz, 2020.1,pip3 install pytz
+scipy, 1.4.1,pip3 install scipy
+six, 1.14.0,pip3 install six
