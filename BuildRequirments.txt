@@ -1,4 +1,6 @@
 Ubuntu, bionic64,Ubuntu install
+CPU, 1 core,SOC
+RAM, 512MB,SOC
 python, 3.8,https://www.python.org/downloads/
 numpy, 1.18.4,pip3 install numpy
 pandas, 1.0.3,pip3 install pandas
